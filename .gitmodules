@@ -1,9 +1,9 @@
 [submodule "kafka_wrapper"]
 	path = kafka_wrapper
-	url = git@github.com:m-appel/kafka-wrapper.git
+	url = https://github.com/m-appel/kafka-wrapper.git
 [submodule "iplookup"]
 	path = iplookup
-	url = git@github.com:m-appel/iplookup.git
+	url = https://github.com/m-appel/iplookup.git
 [submodule "optimum_selector"]
 	path = optimum_selector
-	url = git@github.com:m-appel/optimum-selector.git
+	url = https://github.com/m-appel/optimum-selector.git
