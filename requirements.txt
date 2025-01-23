@@ -7,4 +7,4 @@ py-radix==0.10.0
 requests==2.32.3
 requests-futures==1.0.2
 urllib3==2.2.3
-setuptools==44.0.0
+setuptools
